@@ -1,0 +1,98 @@
+export const tweets = [
+  {
+    author: {
+      name: "Aram_muguel",
+      screenName: "aram_muguel",
+      avater: "http://google.com",
+    },
+    id: "223344567788",
+    fullText: "Apple should pay more attention to costomer request",
+    retweetCount: 2,
+    replyCount: 1,
+    favoriteCount: 5,
+  },
+  {
+    author: {
+      name: "Aram_muguel",
+      screenName: "aram_muguel",
+      avater: "http://google.com",
+    },
+    id: "223344567788",
+    fullText: "Apple should pay more attention to costomer request",
+    retweetCount: 2,
+    replyCount: 1,
+    favoriteCount: 5,
+  },
+  {
+    author: {
+      name: "Aram_muguel",
+      screenName: "aram_muguel",
+      avater: "http://google.com",
+    },
+    id: "223344567788",
+    fullText: "Apple should pay more attention to costomer request",
+    retweetCount: 2,
+    replyCount: 1,
+    favoriteCount: 5,
+  },
+  {
+    author: {
+      name: "Aram_muguel",
+      screenName: "aram_muguel",
+      avater: "http://google.com",
+    },
+    id: "223344567788",
+    fullText: "Apple should pay more attention to costomer request",
+    retweetCount: 2,
+    replyCount: 1,
+    favoriteCount: 5,
+  },
+  {
+    author: {
+      name: "Aram_muguel",
+      screenName: "aram_muguel",
+      avater: "http://google.com",
+    },
+    id: "223344567788",
+    fullText: "Apple should pay more attention to costomer request",
+    retweetCount: 2,
+    replyCount: 1,
+    favoriteCount: 5,
+  },
+  {
+    author: {
+      name: "Aram_muguel",
+      screenName: "aram_muguel",
+      avater: "http://google.com",
+    },
+    id: "223344567788",
+    fullText: "Apple should pay more attention to costomer request",
+    retweetCount: 2,
+    replyCount: 1,
+    favoriteCount: 5,
+  },
+  {
+    author: {
+      name: "Aram_muguel",
+      screenName: "aram_muguel",
+      avater: "http://google.com",
+    },
+    id: "223344567788",
+    fullText: "Apple should pay more attention to costomer request",
+    retweetCount: 2,
+    replyCount: 1,
+    favoriteCount: 5,
+  },
+  {
+    author: {
+      name: "Aram_muguel",
+      screenName: "aram_muguel",
+      avater: "http://google.com",
+    },
+    id: "223344567788",
+    fullText: "Apple should pay more attention to costomer request",
+    retweetCount: 2,
+    replyCount: 1,
+    favoriteCount: 5,
+  },
+];
