@@ -24,7 +24,7 @@ function TabGroup() {
           }
           return <Ionicons name={iconName} size={size} color={color} />;
         },
-        tabBarActiveTintColor: "red",
+        tabBarActiveTintColor: "#1DAFf2",
       })}
     >
       <Tab.Screen name="Feeds" component={Feeds} />
